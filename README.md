@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52ccf2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ayyan+Ali+Khan;I'm+GenAI+Development+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52ccf2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ayyan+Ali+Khan;I'm+Currently+Learning+GenAI+Development)](https://git.io/typing-svg)
 
 <h3 align="center">"Clean code always looks like it was written by someone who cares."</h3>
 <h4 align="center">— Robert C. Martin</h4>
@@ -15,7 +15,8 @@
 
 ## Language and Tools
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img alt="Coder GIF"  height=250 width=350  align="right"
+src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
